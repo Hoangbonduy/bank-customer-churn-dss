@@ -14,11 +14,11 @@ Giao diện trực quan được xây dựng bằng **Streamlit**, giúp nhân v
 
 ## 🚀 Hướng dẫn cài đặt và sử dụng
 
-Bước 1: `git clone https://github.com/Hoangbonduy/bank-customer-churn-dss`
-Bước 2: `cd bank-customer-churn-dss`
-Bước 3: `conda create -n dss_churn python=3.13`
-Bước 4: `pip install -r requirements.txt`
-Bước 5: `streamlit run app.py`
+- Bước 1: `git clone https://github.com/Hoangbonduy/bank-customer-churn-dss`
+- Bước 2: `cd bank-customer-churn-dss`
+- Bước 3: `conda create -n dss_churn python=3.13`
+- Bước 4: `pip install -r requirements.txt`
+- Bước 5: `streamlit run app.py`
 ---
 
 ## 📁 Cấu trúc thư mục
