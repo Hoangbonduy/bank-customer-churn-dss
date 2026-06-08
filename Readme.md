@@ -27,3 +27,5 @@ Giao diện trực quan được xây dựng bằng **Streamlit**, giúp nhân v
 - `best_churn_model.pkl`: File mô hình CatBoost đã được huấn luyện với hiệu suất tối ưu.
 - `scaler.pkl`: File thuật toán StandardScaler dùng để chuẩn hóa dữ liệu đầu vào.
 - `requirements.txt`: Danh sách các thư viện Python cần thiết (streamlit, pandas, numpy, joblib, shap, matplotlib, catboost, scikit-learn).
+
+## Trang web: https://bank-customer-churn-dss.streamlit.app
